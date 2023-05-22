@@ -8664,10 +8664,10 @@ h1, h2, h3, h4, h5,
     margin-bottom: 20px;
     font-weight: 600; }
   .slider-text h1 {
-    font-size: 60px;
+    font-size: 50px;
     color: #fff;
     line-height: 1;
-    font-weight: 900;
+    font-weight: 700;
     text-transform: uppercase; }
     @media (max-width: 991.98px) {
       .slider-text h1 {
